@@ -1,12 +1,7 @@
-## Hi there 👋
+# Enthus App Development
 
-<!--
+## Developer Tools
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+- [environment-setup](https://github.com/enthus-appdev/environment-setup) - Interactive setup for new developers
+- [llm-cli-setup](https://github.com/enthus-appdev/llm-cli-setup) - CLI tools installer with AI assistant integration
+- [atl-cli](https://github.com/enthus-appdev/atl-cli) - Atlassian CLI for Jira and Confluence
