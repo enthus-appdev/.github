@@ -1,8 +1,10 @@
+# enthus GmbH — Application Development
+
 Open-source developer tools from **enthus GmbH** — CLIs, GitHub Actions, container images, and Helm charts, all designed to be driven equally well by humans and LLM agents. Battle-tested in our own production stack.
 
 ## Command-line tools
 
-Four CLIs with a shared design philosophy: **equally useable by humans and LLM agents**. Every command takes `--json`, context switching works the same way across all four, help text and error codes are stable, nothing is interactive by default, and every release ships multi-platform binaries (darwin / linux / windows × amd64 / arm64).
+Four CLIs with a shared design philosophy: **equally usable by humans and LLM agents**. Every command supports `--json`, context switching works the same way across all four, help text and error codes are stable, nothing is interactive by default, and every release ships multi-platform binaries (darwin / linux / windows × amd64 / arm64).
 
 | CLI | What it does |
 |---|---|
